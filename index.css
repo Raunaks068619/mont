@@ -11,6 +11,19 @@ body::-webkit-scrollbar {
     
 }
 
+.img1{
+    width: 15rem;
+}
+
+.img2{
+    width: 30rem;
+}
+
+.ads{
+    font-size: xx-large;
+  margin: 100px 0;
+text-align: center;
+}
 
 .heroview{
     margin-top:-90px;
